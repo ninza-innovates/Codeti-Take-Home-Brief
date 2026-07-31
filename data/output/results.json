@@ -1,0 +1,1404 @@
+{
+  "generatedAt": "2026-07-30T20:44:50.654Z",
+  "lettersScraped": [
+    "a"
+  ],
+  "totalPlayersMatched": 115,
+  "playersWithFaqs": 40,
+  "playersMissingFaqs": 75,
+  "uniqueQuestionCount": 30,
+  "questions": [
+    {
+      "question": "How many teams has {player} played for?",
+      "key": "how many teams has {player} played for?",
+      "playerCount": 39,
+      "players": [
+        "Ace Adams",
+        "Andy Abad",
+        "Austin Adams",
+        "Babe Adams",
+        "Benny Agbayani",
+        "Blaze Alexander",
+        "Cal Abrams",
+        "Chance Adams",
+        "Cristhian Adames",
+        "Dale Alexander",
+        "Dan Adams",
+        "David Adams",
+        "Ehire Adrianza",
+        "Fernando Abad",
+        "Franco Aleman",
+        "Harry Agganis",
+        "Jason Adam",
+        "Jorge Alcala",
+        "Julian Aguiar",
+        "Karl Adams",
+        "Kevin Alcántara",
+        "Lane Adams",
+        "Luis Alcaraz",
+        "Luisangel Acuña",
+        "Manny Acosta",
+        "Matt Adams",
+        "Maximo Acosta",
+        "Nathan Adcock",
+        "Pat Ahearne",
+        "Ronald Acuña Jr.",
+        "Ryan Adams",
+        "Ryan Aguilar",
+        "Santo Alcalá",
+        "Sergio Alcántara",
+        "Shogo Akiyama",
+        "Sparky Adams",
+        "Tal Abernathy",
+        "Travis Adams",
+        "Victor Alcántara"
+      ]
+    },
+    {
+      "question": "When was {player} born?",
+      "key": "when was {player} born?",
+      "playerCount": 39,
+      "players": [
+        "Ace Adams",
+        "Andy Abad",
+        "Austin Adams",
+        "Babe Adams",
+        "Benny Agbayani",
+        "Blaze Alexander",
+        "Cal Abrams",
+        "Chance Adams",
+        "Cristhian Adames",
+        "Dale Alexander",
+        "Dan Adams",
+        "David Adams",
+        "Ehire Adrianza",
+        "Fernando Abad",
+        "Franco Aleman",
+        "Harry Agganis",
+        "Jason Adam",
+        "Jorge Alcala",
+        "Julian Aguiar",
+        "Karl Adams",
+        "Kevin Alcántara",
+        "Lane Adams",
+        "Luis Alcaraz",
+        "Luisangel Acuña",
+        "Manny Acosta",
+        "Matt Adams",
+        "Maximo Acosta",
+        "Nathan Adcock",
+        "Pat Ahearne",
+        "Ronald Acuña Jr.",
+        "Ryan Adams",
+        "Ryan Aguilar",
+        "Santo Alcalá",
+        "Sergio Alcántara",
+        "Shogo Akiyama",
+        "Sparky Adams",
+        "Tal Abernathy",
+        "Travis Adams",
+        "Victor Alcántara"
+      ]
+    },
+    {
+      "question": "Where was {player} born?",
+      "key": "where was {player} born?",
+      "playerCount": 39,
+      "players": [
+        "Ace Adams",
+        "Andy Abad",
+        "Austin Adams",
+        "Babe Adams",
+        "Benny Agbayani",
+        "Blaze Alexander",
+        "Cal Abrams",
+        "Chance Adams",
+        "Cristhian Adames",
+        "Dale Alexander",
+        "Dan Adams",
+        "David Adams",
+        "Ehire Adrianza",
+        "Fernando Abad",
+        "Franco Aleman",
+        "Harry Agganis",
+        "Jason Adam",
+        "Jorge Alcala",
+        "Julian Aguiar",
+        "Karl Adams",
+        "Kevin Alcántara",
+        "Lane Adams",
+        "Luis Alcaraz",
+        "Luisangel Acuña",
+        "Manny Acosta",
+        "Matt Adams",
+        "Maximo Acosta",
+        "Nathan Adcock",
+        "Pat Ahearne",
+        "Ronald Acuña Jr.",
+        "Ryan Adams",
+        "Ryan Aguilar",
+        "Santo Alcalá",
+        "Sergio Alcántara",
+        "Shogo Akiyama",
+        "Sparky Adams",
+        "Tal Abernathy",
+        "Travis Adams",
+        "Victor Alcántara"
+      ]
+    },
+    {
+      "question": "How tall is {player}?",
+      "key": "how tall is {player}?",
+      "playerCount": 30,
+      "players": [
+        "Andy Abad",
+        "Austin Adams",
+        "Benny Agbayani",
+        "Blaze Alexander",
+        "Chance Adams",
+        "Cristhian Adames",
+        "David Adams",
+        "Ehire Adrianza",
+        "Fernando Abad",
+        "Franco Aleman",
+        "Jason Adam",
+        "Jorge Alcala",
+        "Julian Aguiar",
+        "Kevin Alcántara",
+        "Lane Adams",
+        "Luis Alcaraz",
+        "Luisangel Acuña",
+        "Manny Acosta",
+        "Matt Adams",
+        "Maximo Acosta",
+        "Nathan Adcock",
+        "Pat Ahearne",
+        "Ronald Acuña Jr.",
+        "Ryan Adams",
+        "Ryan Aguilar",
+        "Santo Alcalá",
+        "Sergio Alcántara",
+        "Shogo Akiyama",
+        "Travis Adams",
+        "Victor Alcántara"
+      ]
+    },
+    {
+      "question": "How old is {player}?",
+      "key": "how old is {player}?",
+      "playerCount": 29,
+      "players": [
+        "Andy Abad",
+        "Austin Adams",
+        "Benny Agbayani",
+        "Blaze Alexander",
+        "Chance Adams",
+        "Cristhian Adames",
+        "David Adams",
+        "Ehire Adrianza",
+        "Fernando Abad",
+        "Franco Aleman",
+        "Jason Adam",
+        "Jorge Alcala",
+        "Julian Aguiar",
+        "Kevin Alcántara",
+        "Lane Adams",
+        "Luisangel Acuña",
+        "Manny Acosta",
+        "Matt Adams",
+        "Maximo Acosta",
+        "Nathan Adcock",
+        "Pat Ahearne",
+        "Ronald Acuña Jr.",
+        "Ryan Adams",
+        "Ryan Aguilar",
+        "Santo Alcalá",
+        "Sergio Alcántara",
+        "Shogo Akiyama",
+        "Travis Adams",
+        "Victor Alcántara"
+      ]
+    },
+    {
+      "question": "How many seasons did {player} play?",
+      "key": "how many seasons did {player} play?",
+      "playerCount": 28,
+      "players": [
+        "Ace Adams",
+        "Andy Abad",
+        "Austin Adams",
+        "Babe Adams",
+        "Benny Agbayani",
+        "Cal Abrams",
+        "Chance Adams",
+        "Cristhian Adames",
+        "Dale Alexander",
+        "Dan Adams",
+        "David Adams",
+        "Ehire Adrianza",
+        "Fernando Abad",
+        "Harry Agganis",
+        "Karl Adams",
+        "Lane Adams",
+        "Luis Alcaraz",
+        "Manny Acosta",
+        "Matt Adams",
+        "Nathan Adcock",
+        "Pat Ahearne",
+        "Ryan Adams",
+        "Ryan Aguilar",
+        "Santo Alcalá",
+        "Shogo Akiyama",
+        "Sparky Adams",
+        "Tal Abernathy",
+        "Victor Alcántara"
+      ]
+    },
+    {
+      "question": "How much did {player} weigh when playing?",
+      "key": "how much did {player} weigh when playing?",
+      "playerCount": 28,
+      "players": [
+        "Ace Adams",
+        "Andy Abad",
+        "Austin Adams",
+        "Babe Adams",
+        "Benny Agbayani",
+        "Cal Abrams",
+        "Chance Adams",
+        "Cristhian Adames",
+        "Dale Alexander",
+        "Dan Adams",
+        "David Adams",
+        "Ehire Adrianza",
+        "Fernando Abad",
+        "Harry Agganis",
+        "Karl Adams",
+        "Lane Adams",
+        "Luis Alcaraz",
+        "Manny Acosta",
+        "Matt Adams",
+        "Nathan Adcock",
+        "Pat Ahearne",
+        "Ryan Adams",
+        "Ryan Aguilar",
+        "Santo Alcalá",
+        "Shogo Akiyama",
+        "Sparky Adams",
+        "Tal Abernathy",
+        "Victor Alcántara"
+      ]
+    },
+    {
+      "question": "Is {player} in the Hall of Fame?",
+      "key": "is {player} in the hall of fame?",
+      "playerCount": 28,
+      "players": [
+        "Ace Adams",
+        "Andy Abad",
+        "Austin Adams",
+        "Babe Adams",
+        "Benny Agbayani",
+        "Cal Abrams",
+        "Chance Adams",
+        "Cristhian Adames",
+        "Dale Alexander",
+        "Dan Adams",
+        "David Adams",
+        "Ehire Adrianza",
+        "Fernando Abad",
+        "Harry Agganis",
+        "Karl Adams",
+        "Lane Adams",
+        "Luis Alcaraz",
+        "Manny Acosta",
+        "Matt Adams",
+        "Nathan Adcock",
+        "Pat Ahearne",
+        "Ryan Adams",
+        "Ryan Aguilar",
+        "Santo Alcalá",
+        "Shogo Akiyama",
+        "Sparky Adams",
+        "Tal Abernathy",
+        "Victor Alcántara"
+      ]
+    },
+    {
+      "question": "What position did {player} play?",
+      "key": "what position did {player} play?",
+      "playerCount": 28,
+      "players": [
+        "Ace Adams",
+        "Andy Abad",
+        "Austin Adams",
+        "Babe Adams",
+        "Benny Agbayani",
+        "Cal Abrams",
+        "Chance Adams",
+        "Cristhian Adames",
+        "Dale Alexander",
+        "Dan Adams",
+        "David Adams",
+        "Ehire Adrianza",
+        "Fernando Abad",
+        "Harry Agganis",
+        "Karl Adams",
+        "Lane Adams",
+        "Luis Alcaraz",
+        "Manny Acosta",
+        "Matt Adams",
+        "Nathan Adcock",
+        "Pat Ahearne",
+        "Ryan Adams",
+        "Ryan Aguilar",
+        "Santo Alcalá",
+        "Shogo Akiyama",
+        "Sparky Adams",
+        "Tal Abernathy",
+        "Victor Alcántara"
+      ]
+    },
+    {
+      "question": "When did {player} retire?",
+      "key": "when did {player} retire?",
+      "playerCount": 28,
+      "players": [
+        "Ace Adams",
+        "Andy Abad",
+        "Austin Adams",
+        "Babe Adams",
+        "Benny Agbayani",
+        "Cal Abrams",
+        "Chance Adams",
+        "Cristhian Adames",
+        "Dale Alexander",
+        "Dan Adams",
+        "David Adams",
+        "Ehire Adrianza",
+        "Fernando Abad",
+        "Harry Agganis",
+        "Karl Adams",
+        "Lane Adams",
+        "Luis Alcaraz",
+        "Manny Acosta",
+        "Matt Adams",
+        "Nathan Adcock",
+        "Pat Ahearne",
+        "Ryan Adams",
+        "Ryan Aguilar",
+        "Santo Alcalá",
+        "Shogo Akiyama",
+        "Sparky Adams",
+        "Tal Abernathy",
+        "Victor Alcántara"
+      ]
+    },
+    {
+      "question": "When was {player} drafted?",
+      "key": "when was {player} drafted?",
+      "playerCount": 16,
+      "players": [
+        "Andy Abad",
+        "Austin Adams",
+        "Benny Agbayani",
+        "Blaze Alexander",
+        "Chance Adams",
+        "David Adams",
+        "Franco Aleman",
+        "Jason Adam",
+        "Julian Aguiar",
+        "Lane Adams",
+        "Matt Adams",
+        "Nathan Adcock",
+        "Pat Ahearne",
+        "Ryan Adams",
+        "Ryan Aguilar",
+        "Travis Adams"
+      ]
+    },
+    {
+      "question": "How many hits did {player} have?",
+      "key": "how many hits did {player} have?",
+      "playerCount": 15,
+      "players": [
+        "Andy Abad",
+        "Benny Agbayani",
+        "Cal Abrams",
+        "Cristhian Adames",
+        "Dale Alexander",
+        "David Adams",
+        "Ehire Adrianza",
+        "Harry Agganis",
+        "Lane Adams",
+        "Luis Alcaraz",
+        "Matt Adams",
+        "Ryan Adams",
+        "Ryan Aguilar",
+        "Shogo Akiyama",
+        "Sparky Adams"
+      ]
+    },
+    {
+      "question": "How many home runs did {player} have?",
+      "key": "how many home runs did {player} have?",
+      "playerCount": 15,
+      "players": [
+        "Andy Abad",
+        "Benny Agbayani",
+        "Cal Abrams",
+        "Cristhian Adames",
+        "Dale Alexander",
+        "David Adams",
+        "Ehire Adrianza",
+        "Harry Agganis",
+        "Lane Adams",
+        "Luis Alcaraz",
+        "Matt Adams",
+        "Ryan Adams",
+        "Ryan Aguilar",
+        "Shogo Akiyama",
+        "Sparky Adams"
+      ]
+    },
+    {
+      "question": "How many strikeouts did {player} have?",
+      "key": "how many strikeouts did {player} have?",
+      "playerCount": 13,
+      "players": [
+        "Ace Adams",
+        "Austin Adams",
+        "Babe Adams",
+        "Chance Adams",
+        "Dan Adams",
+        "Fernando Abad",
+        "Karl Adams",
+        "Manny Acosta",
+        "Nathan Adcock",
+        "Pat Ahearne",
+        "Santo Alcalá",
+        "Tal Abernathy",
+        "Victor Alcántara"
+      ]
+    },
+    {
+      "question": "How many seasons has {player} played?",
+      "key": "how many seasons has {player} played?",
+      "playerCount": 11,
+      "players": [
+        "Blaze Alexander",
+        "Franco Aleman",
+        "Jason Adam",
+        "Jorge Alcala",
+        "Julian Aguiar",
+        "Kevin Alcántara",
+        "Luisangel Acuña",
+        "Maximo Acosta",
+        "Ronald Acuña Jr.",
+        "Sergio Alcántara",
+        "Travis Adams"
+      ]
+    },
+    {
+      "question": "How much does {player} weigh?",
+      "key": "how much does {player} weigh?",
+      "playerCount": 11,
+      "players": [
+        "Blaze Alexander",
+        "Franco Aleman",
+        "Jason Adam",
+        "Jorge Alcala",
+        "Julian Aguiar",
+        "Kevin Alcántara",
+        "Luisangel Acuña",
+        "Maximo Acosta",
+        "Ronald Acuña Jr.",
+        "Sergio Alcántara",
+        "Travis Adams"
+      ]
+    },
+    {
+      "question": "What position does {player} play?",
+      "key": "what position does {player} play?",
+      "playerCount": 11,
+      "players": [
+        "Blaze Alexander",
+        "Franco Aleman",
+        "Jason Adam",
+        "Jorge Alcala",
+        "Julian Aguiar",
+        "Kevin Alcántara",
+        "Luisangel Acuña",
+        "Maximo Acosta",
+        "Ronald Acuña Jr.",
+        "Sergio Alcántara",
+        "Travis Adams"
+      ]
+    },
+    {
+      "question": "How many World Series has {player} won?",
+      "key": "how many world series has {player} won?",
+      "playerCount": 9,
+      "players": [
+        "Ace Adams",
+        "Babe Adams",
+        "Dale Alexander",
+        "Ehire Adrianza",
+        "Jason Adam",
+        "Matt Adams",
+        "Ronald Acuña Jr.",
+        "Santo Alcalá",
+        "Sparky Adams"
+      ]
+    },
+    {
+      "question": "How tall was {player}?",
+      "key": "how tall was {player}?",
+      "playerCount": 9,
+      "players": [
+        "Ace Adams",
+        "Babe Adams",
+        "Cal Abrams",
+        "Dale Alexander",
+        "Dan Adams",
+        "Harry Agganis",
+        "Karl Adams",
+        "Sparky Adams",
+        "Tal Abernathy"
+      ]
+    },
+    {
+      "question": "What are {player}' nicknames?",
+      "key": "what are {player}' nicknames?",
+      "playerCount": 8,
+      "players": [
+        "Austin Adams",
+        "Cal Abrams",
+        "Cristhian Adames",
+        "Dan Adams",
+        "Harry Agganis",
+        "Karl Adams",
+        "Lane Adams",
+        "Matt Adams"
+      ]
+    },
+    {
+      "question": "What is {player} Instagram account?",
+      "key": "what is {player} instagram account?",
+      "playerCount": 8,
+      "players": [
+        "Blaze Alexander",
+        "Franco Aleman",
+        "Julian Aguiar",
+        "Kevin Alcántara",
+        "Luisangel Acuña",
+        "Maximo Acosta",
+        "Ronald Acuña Jr.",
+        "Ryan Aguilar"
+      ]
+    },
+    {
+      "question": "What was {player}' average?",
+      "key": "what was {player}' average?",
+      "playerCount": 8,
+      "players": [
+        "Cal Abrams",
+        "Cristhian Adames",
+        "David Adams",
+        "Harry Agganis",
+        "Lane Adams",
+        "Matt Adams",
+        "Ryan Adams",
+        "Sparky Adams"
+      ]
+    },
+    {
+      "question": "What are {player} nicknames?",
+      "key": "what are {player} nicknames?",
+      "playerCount": 7,
+      "players": [
+        "Dale Alexander",
+        "Ehire Adrianza",
+        "Fernando Abad",
+        "Julian Aguiar",
+        "Kevin Alcántara",
+        "Ronald Acuña Jr.",
+        "Victor Alcántara"
+      ]
+    },
+    {
+      "question": "What was {player} average?",
+      "key": "what was {player} average?",
+      "playerCount": 7,
+      "players": [
+        "Andy Abad",
+        "Benny Agbayani",
+        "Dale Alexander",
+        "Ehire Adrianza",
+        "Luis Alcaraz",
+        "Ryan Aguilar",
+        "Shogo Akiyama"
+      ]
+    },
+    {
+      "question": "How many hits does {player} have?",
+      "key": "how many hits does {player} have?",
+      "playerCount": 6,
+      "players": [
+        "Blaze Alexander",
+        "Kevin Alcántara",
+        "Luisangel Acuña",
+        "Maximo Acosta",
+        "Ronald Acuña Jr.",
+        "Sergio Alcántara"
+      ]
+    },
+    {
+      "question": "How many home runs does {player} have?",
+      "key": "how many home runs does {player} have?",
+      "playerCount": 6,
+      "players": [
+        "Blaze Alexander",
+        "Kevin Alcántara",
+        "Luisangel Acuña",
+        "Maximo Acosta",
+        "Ronald Acuña Jr.",
+        "Sergio Alcántara"
+      ]
+    },
+    {
+      "question": "What is {player} average?",
+      "key": "what is {player} average?",
+      "playerCount": 6,
+      "players": [
+        "Blaze Alexander",
+        "Kevin Alcántara",
+        "Luisangel Acuña",
+        "Maximo Acosta",
+        "Ronald Acuña Jr.",
+        "Sergio Alcántara"
+      ]
+    },
+    {
+      "question": "How many strikeouts does {player} have?",
+      "key": "how many strikeouts does {player} have?",
+      "playerCount": 5,
+      "players": [
+        "Franco Aleman",
+        "Jason Adam",
+        "Jorge Alcala",
+        "Julian Aguiar",
+        "Travis Adams"
+      ]
+    },
+    {
+      "question": "How much is {player} worth?",
+      "key": "how much is {player} worth?",
+      "playerCount": 2,
+      "players": [
+        "Jason Adam",
+        "Ronald Acuña Jr."
+      ]
+    },
+    {
+      "question": "What is {player}' Instagram account?",
+      "key": "what is {player}' instagram account?",
+      "playerCount": 1,
+      "players": [
+        "Travis Adams"
+      ]
+    }
+  ],
+  "matchedPlayers": [
+    {
+      "name": "Aaron Altherr",
+      "url": "https://www.baseball-reference.com/players/a/altheaa01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Aaron Ashby",
+      "url": "https://www.baseball-reference.com/players/a/ashbyaa01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Abe Alvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvarab01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Ace Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsac01.shtml",
+      "aCount": 3,
+      "questionCount": 11
+    },
+    {
+      "name": "Adbert Alzolay",
+      "url": "https://www.baseball-reference.com/players/a/alzolad01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Alan Ashby",
+      "url": "https://www.baseball-reference.com/players/a/ashbyal01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Albert Almora",
+      "url": "https://www.baseball-reference.com/players/a/almoral01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Alex Arias",
+      "url": "https://www.baseball-reference.com/players/a/ariasal01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Alex Avila",
+      "url": "https://www.baseball-reference.com/players/a/avilaal01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Allan Anderson",
+      "url": "https://www.baseball-reference.com/players/a/anderal02.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Andrew Alvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvaran01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Andy Abad",
+      "url": "https://www.baseball-reference.com/players/a/abadan01.shtml",
+      "aCount": 3,
+      "questionCount": 14
+    },
+    {
+      "name": "Andy Allanson",
+      "url": "https://www.baseball-reference.com/players/a/allanan01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Angel Aragón",
+      "url": "https://www.baseball-reference.com/players/a/aragoan01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Antonio Alfonseca",
+      "url": "https://www.baseball-reference.com/players/a/alfonan01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Austin Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsau01.shtml",
+      "aCount": 3,
+      "questionCount": 12
+    },
+    {
+      "name": "Austin Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsau02.shtml",
+      "aCount": 3,
+      "questionCount": 13
+    },
+    {
+      "name": "Babe Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsba01.shtml",
+      "aCount": 3,
+      "questionCount": 11
+    },
+    {
+      "name": "Benny Agbayani",
+      "url": "https://www.baseball-reference.com/players/a/agbaybe01.shtml",
+      "aCount": 3,
+      "questionCount": 14
+    },
+    {
+      "name": "Benny Ayala",
+      "url": "https://www.baseball-reference.com/players/a/ayalabe01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Blaze Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexabl01.shtml",
+      "aCount": 3,
+      "questionCount": 13
+    },
+    {
+      "name": "Bob Apodaca",
+      "url": "https://www.baseball-reference.com/players/a/apodabo01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Bobby Ayala",
+      "url": "https://www.baseball-reference.com/players/a/ayalabo01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Brant Alyea",
+      "url": "https://www.baseball-reference.com/players/a/alyeabr01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Braxton Ashcraft",
+      "url": "https://www.baseball-reference.com/players/a/ashcrbr01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Brian Allard",
+      "url": "https://www.baseball-reference.com/players/a/allarbr01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Cal Abrams",
+      "url": "https://www.baseball-reference.com/players/a/abramca01.shtml",
+      "aCount": 3,
+      "questionCount": 13
+    },
+    {
+      "name": "Carlos Almánzar",
+      "url": "https://www.baseball-reference.com/players/a/almanca01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Carlos Ascanio",
+      "url": "https://www.baseball-reference.com/players/a/ascanca01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Carlos Asuaje",
+      "url": "https://www.baseball-reference.com/players/a/asuajca01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Chance Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsch01.shtml",
+      "aCount": 3,
+      "questionCount": 12
+    },
+    {
+      "name": "Cristhian Adames",
+      "url": "https://www.baseball-reference.com/players/a/adamecr01.shtml",
+      "aCount": 3,
+      "questionCount": 14
+    },
+    {
+      "name": "Dale Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexada01.shtml",
+      "aCount": 3,
+      "questionCount": 14
+    },
+    {
+      "name": "Dan Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsda01.shtml",
+      "aCount": 3,
+      "questionCount": 11
+    },
+    {
+      "name": "Dana Allison",
+      "url": "https://www.baseball-reference.com/players/a/allisda01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "David Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsda02.shtml",
+      "aCount": 3,
+      "questionCount": 14
+    },
+    {
+      "name": "Dean Anna",
+      "url": "https://www.baseball-reference.com/players/a/annade01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Ehire Adrianza",
+      "url": "https://www.baseball-reference.com/players/a/adriaeh01.shtml",
+      "aCount": 3,
+      "questionCount": 15
+    },
+    {
+      "name": "Elvis Alvarado",
+      "url": "https://www.baseball-reference.com/players/a/alvarel01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Erisbel Arruebarrena",
+      "url": "https://www.baseball-reference.com/players/a/arrueba01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Fast Ball Anderson",
+      "url": "https://www.baseball-reference.com/players/a/anderfa01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Fernando Abad",
+      "url": "https://www.baseball-reference.com/players/a/abadfe01.shtml",
+      "aCount": 3,
+      "questionCount": 12
+    },
+    {
+      "name": "Francisco Alvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvarfr01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Francisco Arcia",
+      "url": "https://www.baseball-reference.com/players/a/arciafr01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Franco Aleman",
+      "url": "https://www.baseball-reference.com/players/a/alemafr01.shtml",
+      "aCount": 3,
+      "questionCount": 11
+    },
+    {
+      "name": "Frank Arellanes",
+      "url": "https://www.baseball-reference.com/players/a/arellfr01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Gabe Alvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvarga01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Gabriel Arias",
+      "url": "https://www.baseball-reference.com/players/a/ariasga01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Gary Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexaga01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Gerald Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexage01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Harry Agganis",
+      "url": "https://www.baseball-reference.com/players/a/agganha01.shtml",
+      "aCount": 3,
+      "questionCount": 13
+    },
+    {
+      "name": "Humberto Arteaga",
+      "url": "https://www.baseball-reference.com/players/a/arteahu01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Jack Aragón",
+      "url": "https://www.baseball-reference.com/players/a/aragoja01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Jake Arrieta",
+      "url": "https://www.baseball-reference.com/players/a/arrieja01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Jason Adam",
+      "url": "https://www.baseball-reference.com/players/a/adamja01.shtml",
+      "aCount": 3,
+      "questionCount": 12
+    },
+    {
+      "name": "Jason Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexaja01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Jason Alfaro",
+      "url": "https://www.baseball-reference.com/players/a/alfarja01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Javier Assad",
+      "url": "https://www.baseball-reference.com/players/a/assadja01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Jay Avrea",
+      "url": "https://www.baseball-reference.com/players/a/avreaja01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Joaquín Andújar",
+      "url": "https://www.baseball-reference.com/players/a/andujjo01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Joaquín Arias",
+      "url": "https://www.baseball-reference.com/players/a/ariasjo01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Joey Amalfitano",
+      "url": "https://www.baseball-reference.com/players/a/amalfjo01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Jonathan Aro",
+      "url": "https://www.baseball-reference.com/players/a/arojo01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Jorge Alcala",
+      "url": "https://www.baseball-reference.com/players/a/alcaljo01.shtml",
+      "aCount": 3,
+      "questionCount": 9
+    },
+    {
+      "name": "José Alvarado",
+      "url": "https://www.baseball-reference.com/players/a/alvarjo03.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Juan Alvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvarju01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Julian Aguiar",
+      "url": "https://www.baseball-reference.com/players/a/aguiaju01.shtml",
+      "aCount": 3,
+      "questionCount": 12
+    },
+    {
+      "name": "Karl Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamska01.shtml",
+      "aCount": 3,
+      "questionCount": 11
+    },
+    {
+      "name": "Kevin Alcántara",
+      "url": "https://www.baseball-reference.com/players/a/alcanke01.shtml",
+      "aCount": 3,
+      "questionCount": 13
+    },
+    {
+      "name": "Kohei Arihara",
+      "url": "https://www.baseball-reference.com/players/a/arihako01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Lane Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsla01.shtml",
+      "aCount": 3,
+      "questionCount": 15
+    },
+    {
+      "name": "Luarbert Arias",
+      "url": "https://www.baseball-reference.com/players/a/ariaslu01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Luis Alcaraz",
+      "url": "https://www.baseball-reference.com/players/a/alcarlu01.shtml",
+      "aCount": 3,
+      "questionCount": 12
+    },
+    {
+      "name": "Luis Alvarado",
+      "url": "https://www.baseball-reference.com/players/a/alvarlu01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Luis Ayala",
+      "url": "https://www.baseball-reference.com/players/a/ayalalu01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Luisangel Acuña",
+      "url": "https://www.baseball-reference.com/players/a/acunajo01.shtml",
+      "aCount": 3,
+      "questionCount": 12
+    },
+    {
+      "name": "Manny Acosta",
+      "url": "https://www.baseball-reference.com/players/a/acostma01.shtml",
+      "aCount": 3,
+      "questionCount": 11
+    },
+    {
+      "name": "Manny Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexama02.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Manny Aybar",
+      "url": "https://www.baseball-reference.com/players/a/aybarma01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Marcos Armas",
+      "url": "https://www.baseball-reference.com/players/a/armasma01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Mario Arencibia",
+      "url": "https://www.baseball-reference.com/players/a/arencma01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Mario Ariosa",
+      "url": "https://www.baseball-reference.com/players/a/ariosma01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Matt Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsma01.shtml",
+      "aCount": 3,
+      "questionCount": 16
+    },
+    {
+      "name": "Matt Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexama01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Maurice Archdeacon",
+      "url": "https://www.baseball-reference.com/players/a/archdma01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Maximo Acosta",
+      "url": "https://www.baseball-reference.com/players/a/acostma02.shtml",
+      "aCount": 3,
+      "questionCount": 12
+    },
+    {
+      "name": "Mel Almada",
+      "url": "https://www.baseball-reference.com/players/a/almadme01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Miguel Amaya",
+      "url": "https://www.baseball-reference.com/players/a/amayami01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Nacho Alvarez Jr.",
+      "url": "https://www.baseball-reference.com/players/a/alvarna01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Nathan Adcock",
+      "url": "https://www.baseball-reference.com/players/a/adcocna01.shtml",
+      "aCount": 3,
+      "questionCount": 12
+    },
+    {
+      "name": "Nolan Arenado",
+      "url": "https://www.baseball-reference.com/players/a/arenano01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Orlando Arcia",
+      "url": "https://www.baseball-reference.com/players/a/arciaor01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Oscar Azócar",
+      "url": "https://www.baseball-reference.com/players/a/azocaos01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Oswaldo Arcia",
+      "url": "https://www.baseball-reference.com/players/a/arciaos01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Pat Ahearne",
+      "url": "https://www.baseball-reference.com/players/a/ahearpa01.shtml",
+      "aCount": 3,
+      "questionCount": 12
+    },
+    {
+      "name": "Pat Ankenman",
+      "url": "https://www.baseball-reference.com/players/a/ankenpa01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Paul Assenmacher",
+      "url": "https://www.baseball-reference.com/players/a/assenpa01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Porfi Altamirano",
+      "url": "https://www.baseball-reference.com/players/a/altampo01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Randy Asadoor",
+      "url": "https://www.baseball-reference.com/players/a/asadora01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Rich Amaral",
+      "url": "https://www.baseball-reference.com/players/a/amarari01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Ronald Acuña Jr.",
+      "url": "https://www.baseball-reference.com/players/a/acunaro01.shtml",
+      "aCount": 3,
+      "questionCount": 15
+    },
+    {
+      "name": "Ryan Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamsry01.shtml",
+      "aCount": 3,
+      "questionCount": 14
+    },
+    {
+      "name": "Ryan Aguilar",
+      "url": "https://www.baseball-reference.com/players/a/aguilry01.shtml",
+      "aCount": 3,
+      "questionCount": 15
+    },
+    {
+      "name": "Sam Antonacci",
+      "url": "https://www.baseball-reference.com/players/a/antonsa01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Sandy Alomar",
+      "url": "https://www.baseball-reference.com/players/a/alomasa01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Sandy Alomar",
+      "url": "https://www.baseball-reference.com/players/a/alomasa02.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Santo Alcalá",
+      "url": "https://www.baseball-reference.com/players/a/alcalsa01.shtml",
+      "aCount": 3,
+      "questionCount": 12
+    },
+    {
+      "name": "Sergio Alcántara",
+      "url": "https://www.baseball-reference.com/players/a/alcanse01.shtml",
+      "aCount": 3,
+      "questionCount": 11
+    },
+    {
+      "name": "Shogo Akiyama",
+      "url": "https://www.baseball-reference.com/players/a/akiyash01.shtml",
+      "aCount": 3,
+      "questionCount": 13
+    },
+    {
+      "name": "Sparky Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamssp01.shtml",
+      "aCount": 3,
+      "questionCount": 13
+    },
+    {
+      "name": "Tal Abernathy",
+      "url": "https://www.baseball-reference.com/players/a/abernte01.shtml",
+      "aCount": 3,
+      "questionCount": 10
+    },
+    {
+      "name": "Travis Adams",
+      "url": "https://www.baseball-reference.com/players/a/adamstr01.shtml",
+      "aCount": 3,
+      "questionCount": 11
+    },
+    {
+      "name": "Victor Alcántara",
+      "url": "https://www.baseball-reference.com/players/a/alcanvi01.shtml",
+      "aCount": 3,
+      "questionCount": 12
+    },
+    {
+      "name": "Walt Alexander",
+      "url": "https://www.baseball-reference.com/players/a/alexawa01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    },
+    {
+      "name": "Yordan Alvarez",
+      "url": "https://www.baseball-reference.com/players/a/alvaryo01.shtml",
+      "aCount": 3,
+      "questionCount": 0
+    }
+  ]
+}

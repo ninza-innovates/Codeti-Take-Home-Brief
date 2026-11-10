@@ -1,0 +1,44 @@
+name: Feature request
+description: A change to scraping, aggregation, the JSON output, the API, or the viewer
+title: "Feature: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The scraper and `data/output/results.json` are the core deliverable. The Express API and React app only display that JSON. Baseball-Reference asks for no more than about 20 requests per minute.
+  - type: dropdown
+    id: surface
+    attributes:
+      label: Surface
+      options:
+        - Scraper CLI
+        - Aggregation or uniqueness rules
+        - Output JSON (`results.json` or `players-debug.json`)
+        - Express API
+        - React viewer
+        - Local workflow or CI
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What is missing or awkward in the current pipeline?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior
+      description: What should change, and where a reader would see it (CLI flag, JSON field, API, or UI).
+    validations:
+      required: true
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Extra requests and scope
+      description: Say if this needs more Baseball-Reference pages than the current index-plus-player fetch, or if it should stay out of the scrape path.
+      placeholder: No extra page fetches. This is a viewer change on the existing JSON.
+    validations:
+      required: false

@@ -1,0 +1,58 @@
+name: Bug report
+description: Wrong player match, FAQ aggregation, API payload, or viewer result
+title: "Bug: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Report a wrong result or a crash. A name matches when the visible first and last name contain exactly three letter `a`/`A`s. Two questions are the same after lowercasing and replacing the player name (including possessives) with `{player}`.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Scraper (fetch, cache, or HTTP 429)
+        - Player index or FAQ parsing
+        - Name filter (exactly three letter a's)
+        - Question normalization
+        - API (`/api/results`)
+        - React viewer
+        - CI (typecheck, test, or client build)
+    validations:
+      required: true
+  - type: input
+    id: command
+    attributes:
+      label: Command
+      description: What you ran. Examples are `npm run scrape:a` and `npx tsx src/scraper/index.ts --letters a --limit 10`.
+      placeholder: npm run scrape:a
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected
+      description: Name a player, question, or JSON field when you have one. David Aardsma (4 a's) is excluded; Tal Abernathy (3) is included.
+      placeholder: Tal Abernathy is included and "When was Tal Abernathy born?" rolls up to "when was {player} born?"
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual
+      description: Error text, the relevant slice of `data/output/results.json`, or what the UI showed. Leave cached HTML out.
+    validations:
+      required: true
+  - type: dropdown
+    id: cache
+    attributes:
+      label: Cache
+      description: HTML in `data/cache/` is reused unless you pass `--force`. A 429 can block the IP for about an hour.
+      options:
+        - Cold cache
+        - Reused an existing cache
+        - Re-ran with --force
+        - Not a scrape (API, UI, or CI)
+    validations:
+      required: true

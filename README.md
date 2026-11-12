@@ -28,9 +28,13 @@ Examples treated as the same:
 
 ## Setup
 
+Node.js **20.19+**, or **22.12+** (the Vite range in `package-lock.json`). CI installs Node 26.
+
 ```bash
 npm install
 ```
+
+`data/output/results.json` is a checked-in letter-A sample (115 matched players, 40 with FAQs, 30 unique questions). That file is enough to start the viewer.
 
 ## Scrape
 
@@ -43,12 +47,13 @@ npm run scrape:a
 # Full A–Z run (slow; polite delay + retries on HTTP 429)
 npm run scrape
 
-# Useful flags
-npx tsx src/scraper/index.ts --letters a,b --limit 10
+# --letters takes a comma list (`--letters a,b` or `--letters=a,b`).
+# --limit and --delay require an equals sign.
+npx tsx src/scraper/index.ts --letters a,b --limit=10
 npx tsx src/scraper/index.ts --force --delay=3000
 ```
 
-Cached HTML lives in `data/cache/`. Re-runs reuse cache unless `--force` is passed. If you hit rate limits mid-run, just re-run the same command — cached pages are skipped and failed pages are retried.
+`--limit=10` keeps the first 10 name matches after the directory pages are parsed. Cached HTML lives in `data/cache/`. Re-runs reuse cache unless `--force` is passed. If you hit rate limits mid-run, just re-run the same command — cached pages are skipped and failed pages are retried.
 
 ## View results (React + API)
 
@@ -62,8 +67,20 @@ npm run client
 
 Or both: `npm run dev`
 
-- API: `http://localhost:8787/api/results`
-- UI: `http://localhost:5173`
+- API: `http://localhost:8787/api/results` (`PORT` overrides 8787)
+- Health: `http://localhost:8787/api/health`
+- UI: `http://localhost:5173` (Vite proxies `/api` to the API)
+
+`npm run build:client` writes `client/dist/`. After that build, `npm run server` also serves the UI on the API port.
+
+## Checks
+
+```bash
+npm test
+npm run typecheck
+```
+
+`npm test` runs `src/shared/normalize.test.ts` (letter-`a` counts and question normalization). CI runs typecheck, that test, and `npm run build:client`.
 
 ## Project layout
 

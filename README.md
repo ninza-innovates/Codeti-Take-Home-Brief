@@ -47,13 +47,13 @@ npm run scrape:a
 # Full A–Z run (slow; polite delay + retries on HTTP 429)
 npm run scrape
 
-# --letters takes a comma list (`--letters a,b` or `--letters=a,b`).
-# --limit and --delay require an equals sign.
+# `--letters`, `--limit`, and `--delay` accept either `--flag value` or `--flag=value`.
 npx tsx src/scraper/index.ts --letters a,b --limit=10
+npx tsx src/scraper/index.ts --letters a --limit 10 --delay 3000
 npx tsx src/scraper/index.ts --force --delay=3000
 ```
 
-`--limit=10` keeps the first 10 name matches after the directory pages are parsed. Cached HTML lives in `data/cache/`. Re-runs reuse cache unless `--force` is passed. If you hit rate limits mid-run, just re-run the same command — cached pages are skipped and failed pages are retried.
+`--limit 10` keeps the first 10 name matches after the directory pages are parsed. A missing or invalid `--delay` stays at 4 seconds, and a negative `--limit` is ignored. Cached HTML lives in `data/cache/`. Re-runs reuse cache unless `--force` is passed. If you hit rate limits mid-run, just re-run the same command — cached pages are skipped and failed pages are retried.
 
 ## View results (React + API)
 
@@ -80,7 +80,7 @@ npm test
 npm run typecheck
 ```
 
-`npm test` runs `src/shared/normalize.test.ts` (letter-`a` counts and question normalization). CI runs typecheck, that test, and `npm run build:client`.
+`npm test` runs `src/shared/normalize.test.ts` (letter-`a` counts and question normalization) and `src/scraper/args.test.ts` (CLI flags). CI runs typecheck, those tests, and `npm run build:client`.
 
 ## Project layout
 

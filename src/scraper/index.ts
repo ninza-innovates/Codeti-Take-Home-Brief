@@ -1,6 +1,7 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { parseArgs } from "./args.js";
 import { aggregateFaqs } from "./aggregate.js";
 import { fetchHtml } from "./fetchHtml.js";
 import { parseDirectoryPlayers, parseFaqQuestions } from "./parse.js";
@@ -10,43 +11,6 @@ import type { PlayerFaq, PlayerRef } from "../shared/types.js";
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const CACHE_DIR = path.join(ROOT, "data", "cache");
 const OUTPUT_DIR = path.join(ROOT, "data", "output");
-
-const ALL_LETTERS = "abcdefghijklmnopqrstuvwxyz".split("");
-
-function parseArgs(argv: string[]): {
-  letters: string[];
-  forceRefresh: boolean;
-  delayMs: number;
-  limit?: number;
-} {
-  const lettersFlag = argv.find((a) => a.startsWith("--letters="));
-  const lettersIdx = argv.indexOf("--letters");
-  const lettersRaw = lettersFlag
-    ? lettersFlag.split("=")[1]
-    : lettersIdx >= 0
-      ? argv[lettersIdx + 1]
-      : undefined;
-
-  const letters = lettersRaw
-    ? lettersRaw
-        .split(",")
-        .map((l) => l.trim().toLowerCase())
-        .filter((l) => /^[a-z]$/.test(l))
-    : ALL_LETTERS;
-
-  const delayFlag = argv.find((a) => a.startsWith("--delay="));
-  const delayMs = delayFlag ? Number(delayFlag.split("=")[1]) : 4_000;
-
-  const limitFlag = argv.find((a) => a.startsWith("--limit="));
-  const limit = limitFlag ? Number(limitFlag.split("=")[1]) : undefined;
-
-  return {
-    letters: letters.length > 0 ? letters : ALL_LETTERS,
-    forceRefresh: argv.includes("--force"),
-    delayMs: Number.isFinite(delayMs) ? delayMs : 1_200,
-    limit: Number.isFinite(limit) ? limit : undefined,
-  };
-}
 
 async function collectMatchingPlayers(
   letters: string[],

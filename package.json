@@ -12,7 +12,7 @@
     "client": "vite --config client/vite.config.ts",
     "build:client": "vite build --config client/vite.config.ts",
     "typecheck": "tsc --noEmit",
-    "test": "tsx src/shared/normalize.test.ts"
+    "test": "tsx src/shared/normalize.test.ts && tsx src/scraper/args.test.ts"
   },
   "dependencies": {
     "cheerio": "^1.1.2",
